@@ -8,13 +8,13 @@
 ## First clone this repository on your windows machine.
 
 ```
-git clone https://github.com/amitvashisttech/docker-kubernetes-ericsson-29-Nov-2021.git
+git clone https://github.com/amitvashisttech/docker-kubernetes-ericsson-20-Dec-2021.git
 ``` 
 
 ## Now provision three virtual machines with following commands:
 
 ```
-cd docker-kubernetes-ericsson-29-Nov-2021/00-Vagrant-Setup/
+cd docker-kubernetes-ericsson-20-Dec-2021/00-Vagrant-Setup/
 vagrant.exe up
 
 
