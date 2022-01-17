@@ -1,1 +1,1 @@
-# docker-kubernetes-ericsson-20-Dec-2021
+docker-kubernetes-2022
